@@ -9,9 +9,7 @@ require("dotenv").config();
 const express = require('express');
 const partials = require('express-partials');
 
-
 const app = express();
-
 
 /*
  * Variable Declarations
@@ -41,8 +39,6 @@ passport.deserializeUser((user, done) => {
   // The user should be queried against the database here
   done(null, user);
 });
-
-
 
 
 /*
