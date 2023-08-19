@@ -1,5 +1,7 @@
-<a name="readme-top">Github Oauth2</a>
 
+<div align="center">
+    <h1>Github Oauth2</h1>
+</div>
 
 
 <div align="center">
