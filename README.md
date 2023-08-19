@@ -1,9 +1,10 @@
-<a name="readme-top"><img src='./GitHub_logo.svg'></a>
+<a name="readme-top">Github Oauth2</a>
+
 
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./GitHub_logo.svg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b></b></h3>
